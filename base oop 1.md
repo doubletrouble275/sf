@@ -96,7 +96,8 @@ class Library {
 Library "1" o-- "*" Book : хранит
 @enduml
 ```
-<img width="311" height="503" alt="image" src="https://github.com/user-attachments/assets/f52893b1-2feb-4381-9bc6-195699248e91" />
+<img width="311" height="503" alt="image" src="https://github.com/user-attachments/assets/73dd60d7-a222-4e77-a007-e8f240ab72b0" />
+
 
 Обозначения: `+` публичный, `-` внутренний.
 
